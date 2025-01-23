@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  AppPapple2
-//
-//  Created by Christian Morante on 22/01/25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
@@ -17,8 +10,4 @@ struct ContentView: View {
         }
         .padding()
     }
-}
-
-#Preview {
-    ContentView()
 }
